@@ -21,8 +21,8 @@ Game Objectives
 
 Game Features
 
-- 12 animal cards arranged in a 4 × 4 grid.
-- 8 pairs of farm animals.
+- 12 animal cards arranged in a 4 × 3 grid.
+- 6 pairs of farm animals.
 - Interactive card flipping.
 - Automatic comparison of selected cards.
 - Matched cards remain revealed.
